@@ -7,6 +7,9 @@
 - 😄 Pronouns: He/him
 - 😃 Worked on : COVID-19 testing machine for undisclose customer, [Troto](https://troto.co), ... 
 
+
+####  🦀 RUST, JS, Solidity, ReactJS
+
 <!--
 **elielnfinic/elielnfinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
