@@ -1,10 +1,11 @@
-# Hi there 😃
+# Hi there 🧑‍💻
 
 - 🔭 I’m currently working on Landder, a decentralized land management system
 - 👯 I’m looking to collaborate on Web3 projects and high performance applications
 - 💬 Ask me about web applications development and embedded RUST development
 - 📫 How to reach me: [@elielmathe](twitter.com/elielmathe)
 - 😄 Pronouns: He/him
+- 😃 Worked on : COVID-19 testing machine for undisclose customer, [Troto](https://troto.co), ... 
 
 <!--
 **elielnfinic/elielnfinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
