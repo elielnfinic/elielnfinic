@@ -5,7 +5,7 @@
 - 💬 Ask me about web applications development and embedded RUST development
 - 📫 How to reach me: [@elielmathe](twitter.com/elielmathe)
 - 😄 Pronouns: He/him
-- 😃 Worked on : COVID-19 testing machine for undisclose customer, [Troto](https://troto.co), ... 
+- 😃 Worked on : COVID-19 testing machine for undisclose customer, [Troto](https://troto.co), Internet optimisation tools and hacked Chromium Browser to create a custom version for a customer.
 
 
 ####  🦀 RUST, JS, Solidity, ReactJS
