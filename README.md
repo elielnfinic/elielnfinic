@@ -8,7 +8,7 @@
 - 😃 Worked on : COVID-19 testing machine for undisclose customer, [Troto](https://troto.co), Internet optimisation tools and hacked Chromium Browser to create a custom version for a customer.
 
 
-####  🦀 RUST, JS, Solidity, ReactJS
+####  🦀 RUST, JS, Solidity, PHP, React
 
 <!--
 **elielnfinic/elielnfinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
