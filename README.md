@@ -1,6 +1,6 @@
 # Hi there 🧑‍💻
 
-- 🔭 I’m currently working on Landder, a decentralized land management system
+- 🔭 I’m currently working on Openden, an IPFS wallet 
 - 👯 I’m looking to collaborate on Web3 projects and high performance applications
 - 💬 Ask me about web applications development and embedded RUST development
 - 📫 How to reach me: [@elielmathe](twitter.com/elielmathe)
