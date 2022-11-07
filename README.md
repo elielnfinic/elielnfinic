@@ -1,25 +1,11 @@
 # Hi there 🧑‍💻
 
 - 🔭 I’m currently working on Openden, an IPFS wallet 
-- 👯 I’m looking to collaborate on Web3 projects and high performance applications
-- 💬 Ask me about web applications development and embedded RUST development
+- 👯 I’m looking to collaborate on the future of decentralization through ZKP and encryption
+- 💬 Ask me about web applications development, WASM RUST development
 - 📫 How to reach me: [@elielmathe](twitter.com/elielmathe)
 - My blog : [https://eliel.nfinic.com](https://eliel.nfinic.com)
 
 
-####  🦀 RUST, JS, Polkadot, React, TailwindCSS
+####  🦀 RUST, JS, EVM, Substrate, React, TailwindCSS
 
-<!--
-**elielnfinic/elielnfinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
