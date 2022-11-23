@@ -7,5 +7,5 @@
 - My blog : [https://eliel.nfinic.com](https://eliel.nfinic.com)
 
 
-####  🦀 RUST, JS, EVM, Substrate, React, TailwindCSS
+####  🦀 RUST, JS, Cairo(Starknet), EVM, Substrate, React, TailwindCSS
 
